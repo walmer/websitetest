@@ -1,0 +1,78 @@
+.logo {
+margin-top: 40px;
+max-width: 130px;
+}
+.centro {
+  margin-top: 35px;
+  background-color: #0192F6;
+}
+.titulo{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  color: #5695e2;
+}
+.titulo1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: #8c8c8c;
+}
+.titulo2{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #5695e2;
+}
+.titulo3{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  color: #8c8c8c;
+}
+.footer{
+  margin-top: 2%;
+}
+.titulo4{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+}
+.titulo5{
+  text-align: justify;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 300;
+  color: #fff;
+}
+.direita {
+}
+.form-control {
+  height: 50px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  border-radius:2px;
+  margin: 0;
+}
+.btn-default {
+  color: #fff;
+  background-color: #ffa10e;
+  border: #ffa10e;
+  width: 200px;
+  height: 45px;
+  float: right;
+  text-transform: uppercase;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  border-radius:2px;
+}
+.link {
+  text-decoration: underline;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  color: #8c8c8c;
+}
